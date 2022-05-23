@@ -15,6 +15,25 @@
             "ruta" : "card",
             "icona" : "folder_open",
             "texte": "Cards - Targetes"
-        }
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icona" : "donut_large",
+            "texte": "Animated Container"
+        },
+        {
+            "ruta" : "inputs",
+            "icona" : "input",
+            "texte": "Inputs"
+        },
+        {
+            "ruta" : "slider",
+            "icona" : "tune",
+            "texte": "Slider - Checks"
+        },{
+            "ruta" : "list",
+            "icona" : "list",
+            "texte": "Llistes y Scroll"
+        } 
     ]
 }
