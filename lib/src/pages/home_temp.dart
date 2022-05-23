@@ -40,9 +40,9 @@ class HomePageTemp extends StatelessWidget {
           ListTile(
             title: Text(element+"!"),
             subtitle: Text("Subtítol"),
-            //leading: ,
-            //trailing: ,
-            //onTap: ,
+            leading: Icon(Icons.account_circle, color: Colors.blue,),
+            trailing: Icon(Icons.keyboard_arrow_right, color: Colors.blue),
+            onTap: (){},
           ),
         ],
       );
